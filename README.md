@@ -3,6 +3,7 @@
 A user-friendly, interactive dashboard and AI-powered assistant for exploring, predicting, and analyzing sales order delays.  
 Built using **Streamlit** and **Gemini LLM** for rapid business insights and explainable ML.
 
+Link to UI: https://planning-scheduling-assistant-r5tabnpwkeexvtinr63oyn.streamlit.app/
 ---
 
 ## 🚀 What’s Inside?
