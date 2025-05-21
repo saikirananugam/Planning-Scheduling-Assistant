@@ -1,0 +1,33 @@
+# Core data wrangling libraries
+pandas>=1.5.0
+numpy>=1.22.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning
+scikit-learn>=1.1.0
+
+# Streamlit app framework
+streamlit>=1.20.0
+
+python-dotenv
+google-generativeai
+
+
+
+# LLM integration (optional, depending on approach)
+# You may add one of the following based on your implementation:
+# openai            # If using OpenAI GPT-3.5 or GPT-4
+# langchain         # For orchestrating LLMs with tools
+# huggingface_hub   # For free-tier open-source model endpoints
+# llama-cpp-python  # For local lightweight models (if you're running one)
+
+# Other helpful packages
+# tqdm              # Progress bars for data loading
+# nltk/spacy        # NLP tools if you're parsing text
+# plotly            # Interactive charts (optional)
+
+# ⚠️ Add any additional libraries you choose to use during the project.
+# Please ensure your final version includes all necessary packages to run your code.
