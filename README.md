@@ -6,7 +6,7 @@ Built using **Streamlit** and **Gemini LLM** for rapid business insights and exp
 Link to UI: https://planning-scheduling-assistant-r5tabnpwkeexvtinr63oyn.streamlit.app/
 ---
 
-## 🚀 What’s Inside?
+## What’s Inside?
 
 - **EDA Dashboard:** Interactive, filterable insights about order delays, sales regions, product types, and more.
 - **ML Model Builder:** Train and evaluate Random Forest or Logistic Regression models to predict delivery delays.
